@@ -1,0 +1,16 @@
+{
+    "name": "m7shapan/weather-monitoring-application",
+    "authors": [
+        {
+            "name": "Mohamed Shapan",
+            "email": "m7shapan@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+        	"WeatherMonitoringApplication\\": "../WeatherMonitoringApplication"
+        }
+    }
+
+}
